@@ -54,17 +54,17 @@ Physics, Electronics Research & Development
 
 <div align="center">
 
-### GitHub Overview
+### How I Use GitHub with PHP, JavaScript, HTML, and CSS
 
 </div>
 
-<div align="center">
-  
-![Nasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NasirSultan&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true)
+I use GitHub as my version control and collaboration hub for all types of projects:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NasirSultan&layout=compact&theme=radical)
+- **PHP** — I build scalable Laravel backends, push clean code using branches, and handle pull requests for reviewing logic and architecture.
+- **JavaScript** — I develop dynamic interfaces using React, Vue, and vanilla JS, with commits structured around feature-based development.
+- **HTML/CSS** — I craft responsive and accessible UI, organize code into component folders, and often use GitHub Actions for linting and deployment.
 
-</div>
+GitHub helps me track progress, collaborate with other developers, manage issues, and automate testing and CI/CD workflows across all tech stacks I use.
 
 ---
 
