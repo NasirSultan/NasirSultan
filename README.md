@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=500&lines=I'm+Nasir+Sultan;Full+Stack+Developer;AI+Learner+and+Tech+Explorer)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NasirSultan&color=brightgreen)
-[![GitHub Followers](https://img.shields.io/github/followers/NasirSultan?label=Follow&style=social)](https://github.com/NasirSultan)
-[![GitHub Stars](https://img.shields.io/github/stars/NasirSultan?style=social)](https://github.com/NasirSultan?tab=stars)
-
 </div>
 
 ---
@@ -30,29 +26,45 @@ I'm currently focused on deepening my AI knowledge, refining my debugging skills
 
 </div>
 
-**Frontend Development**
-- HTML, CSS, JavaScript, TypeScript
-- React.js (Mastered), Next.js (Mastered), Vue.js (Learning)
-- Redux, Tailwind CSS, Bootstrap, jQuery
+**Frontend Development**  
+HTML, CSS, JavaScript, TypeScript  
+React.js (Mastered), Next.js (Mastered), Vue.js (Learning)  
+Redux, Tailwind CSS, Bootstrap, jQuery  
 
-**Backend Development**
-- Node.js, Express.js
-- PHP, Laravel 11
-- RESTful API Design
+**Backend Development**  
+Node.js, Express.js  
+PHP, Laravel 11  
+RESTful API Design  
 
-**Database**
-- MySQL, MongoDB
+**Database**  
+MySQL, MongoDB  
 
-**Dev Tools**
-- Git, Docker, WordPress, Font Awesome
+**Dev Tools**  
+Git, Docker, WordPress, Font Awesome  
 
-**Programming & Tech**
-- Python, MATLAB, C++
-- Data Structures and Algorithms
-- Circuit Design, PCB, Research Projects
+**Programming & Tech**  
+Python, MATLAB, C++  
+Data Structures and Algorithms  
+Circuit Design, PCB, Research Projects  
 
-**Academic**
-- Physics, Electronics Research & Development
+**Academic**  
+Physics, Electronics Research & Development  
+
+---
+
+<div align="center">
+
+### GitHub Overview
+
+</div>
+
+<div align="center">
+  
+![Nasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NasirSultan&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NasirSultan&layout=compact&theme=radical)
+
+</div>
 
 ---
 
@@ -70,23 +82,6 @@ I'm currently focused on deepening my AI knowledge, refining my debugging skills
 
 <div align="center">
 
-### GitHub Activity
+Thank you for visiting my GitHub profile.
 
 </div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NasirSultan&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
-  
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NasirSultan&theme=react-dark)
-
-</div>
-
----
-
-<div align="center">
-
-Thanks for visiting my GitHub profile.
-
-</div>
-
