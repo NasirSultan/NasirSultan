@@ -11,7 +11,7 @@ Experienced with RAG (Retrieval-Augmented Generation) systems, MCP (Model Contex
 LLM integrations, vector databases, and scalable backend systems.
 
 I deploy production-ready applications on Render, AWS, and DigitalOcean  
-using Docker, CI/CD pipelines, and cloud infrastructure best practices.
+using cloud infrastructure best practices.
 
 </div>
 <div align="center">
