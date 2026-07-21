@@ -22,7 +22,16 @@ I deploy production-ready applications on **Render**, **AWS**, and **DigitalOcea
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs,postgres,mongodb,aws,digitalocean,python,git,github" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs,postgres,mongodb,aws,python,git,github" />
+
+<br><br>
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00BFA6?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-4B8BBE?style=for-the-badge)
+![Vapi](https://img.shields.io/badge/Vapi-000000?style=for-the-badge)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
 </div>
 
