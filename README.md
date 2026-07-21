@@ -40,7 +40,7 @@ I deploy production-ready applications on **Render**, **AWS**, and **DigitalOcea
 <img src="https://img.shields.io/badge/Important%20Note-Personal%20and%20Learning%20Repositories-red?style=for-the-badge" />
 
 <p style="font-size:12px; margin-top:5px;">
-All repositories here are personal projects and learning resources.<br>
+All public repositories here are personal projects and learning resources.<br>
 They are not related to any work or projects of my current or previous employers, in accordance with company policies.
 </p>
 
