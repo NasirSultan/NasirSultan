@@ -22,7 +22,7 @@ I deploy production-ready applications on **Render**, **AWS**, and **DigitalOcea
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs,postgres,mongodb,aws,docker,digitalocean" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs,postgres,mongodb,aws,digitalocean,python,git,github" />
 
 </div>
 
