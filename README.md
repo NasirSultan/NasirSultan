@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=900&lines=I'm+Nasir+Sultan;Full+Stack+AI+Engineer;Agentic+AI+%7C+Generative+AI+%7C+RAG;AI+Voice+Agents+%7C+WhatsApp+Agents;FastAPI+%7C+NestJS+%7C+Express.js;PostgreSQL+%7C+MongoDB;AWS+%7C+Docker+%7C+Render+%7C+DigitalOcean)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=900&lines=I'm+Nasir+Sultan;AI%2FML+%26+Databricks+Engineer;Agentic+AI+%7C+Generative+AI+%7C+RAG;AI+Voice+Agents+%7C+WhatsApp+Agents;FastAPI+%7C+NestJS+%7C+Express.js;PostgreSQL+%7C+MongoDB;AWS+%7C+Docker+%7C+Render+%7C+DigitalOcean)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-I build **AI-powered Full Stack applications** using **Generative AI**, **Agentic AI**, and **fine-tuning**.
+I build **AI/ML solutions** using **Generative AI**, **Agentic AI**, and **fine-tuning**, and work with **Databricks** for data and ML workflows.
 
 Experienced in **RAG**, **MCP**, **LLM integrations**, **vector databases**, and scalable backend services.
 
@@ -30,6 +30,7 @@ I deploy production-ready applications on **Render**, **AWS**, and **DigitalOcea
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00BFA6?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-4B8BBE?style=for-the-badge)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi-000000?style=for-the-badge)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
