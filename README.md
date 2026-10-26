@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=900&lines=I'm+Nasir+Sultan;AI%2FML+%26+Databricks+Engineer;Agentic+AI+%7C+Generative+AI+%7C+RAG;AI+Voice+Agents+%7C+WhatsApp+Agents;FastAPI+%7C+NestJS+%7C+Express.js;PostgreSQL+%7C+MongoDB;AWS+%7C+Docker+%7C+Render+%7C+DigitalOcean)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=900&lines=I'm+Nasir+Sultan;AI%2FML+%26+Databricks+Engineer;Agentic+AI+%7C+Generative+AI+%7C+RAG;AI+Voice+Agents+%7C+WhatsApp+Agents;Workflow+Automation+%7C+Zapier;FastAPI+%7C+Django+%7C+NestJS+%7C+Express.js;PostgreSQL+%7C+MongoDB;AWS+%7C+Docker+%7C+Render+%7C+DigitalOcean)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,9 @@ I build **AI/ML solutions** using **Generative AI**, **Agentic AI**, and **fine-
 
 Experienced in **RAG**, **MCP**, **LLM integrations**, **vector databases**, and scalable backend services.
 
-I also develop **AI Voice Agents**, **AI Calling Agents**, and **WhatsApp AI Agents** using **Vapi**, **Twilio**, and **LiveKit**.
+I also develop **AI Voice Agents**, **AI Calling Agents**, and **WhatsApp AI Agents** using **Vapi**, **Twilio**, and **LiveKit**, and automate business workflows with **Zapier**.
 
-My backend experience includes **FastAPI**, **Node.js**, **Express.js**, and **NestJS**, along with **PostgreSQL** and **MongoDB**.
+My backend experience includes **FastAPI**, **Django**, **Node.js**, **Express.js**, and **NestJS**, along with **PostgreSQL** and **MongoDB**.
 
 I deploy production-ready applications on **Render**, **AWS**, and **DigitalOcean** using Docker and cloud best practices.
 
@@ -22,7 +22,7 @@ I deploy production-ready applications on **Render**, **AWS**, and **DigitalOcea
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs,postgres,mongodb,aws,python,git,github" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,nestjs,postgres,mongodb,aws,python,git,github" />
 
 <br><br>
 
@@ -33,6 +33,7 @@ I deploy production-ready applications on **Render**, **AWS**, and **DigitalOcea
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi-000000?style=for-the-badge)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
 
 </div>
 
